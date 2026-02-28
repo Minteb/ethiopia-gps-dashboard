@@ -1,0 +1,352 @@
+Enumerator_ID,Total_Maize_Area,Improved_Maize_Area,Region,Zone,Woreda,Kebele,BranchName,latitude,longitude,altitude,has_gps
+589,0.15,0.08,Amhara,Misrak Gojjam,Dejen,Kurar,Bahirdar,10.1122983,38.1535375,1816,TRUE
+578,1.5,1.5,Amhara,Misrak Gojjam,Machakel,Minch Yekest,Bahirdar,10.4349997,37.3435151,2066,TRUE
+578,0.75,0.75,Amhara,Misrak Gojjam,Machakel,Minch Yekest,Bahirdar,10.4350552,37.3434792,2057,TRUE
+723,0.5,0.5,Amhara,Oromiya Liyu Zone,Dewa Chefa,Gerbi,Dessie,10.748606,39.832394,1451,TRUE
+723,0.5,0.5,Amhara,Oromiya Liyu Zone,Dewa Chefa,Gerbi,Dessie,10.7486095,39.8325801,1441,TRUE
+723,0.1,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Gerbi,Dessie,10.7486732,39.8325693,1455,TRUE
+723,0,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Gerbi,Dessie,10.7486903,39.8325802,1453,TRUE
+723,0.25,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Gerbi,Dessie,10.7487262,39.8326102,1452,TRUE
+723,0.5,0.5,Amhara,Oromiya Liyu Zone,Dewa Chefa,Gerbi,Dessie,10.7488367,39.8323221,1467,TRUE
+720,0.09,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Haro Bakelo,Dessie,10.825278,39.8217345,2382,TRUE
+720,0.05,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Haro Bakelo,Dessie,10.8427439,39.8521359,1796,TRUE
+720,0.26,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Haro Bakelo,Dessie,10.8448534,39.8647019,1896,TRUE
+720,0.26,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Haro Bakelo,Dessie,10.8455148,39.8628533,1814,TRUE
+720,0.03,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Haro Bakelo,Dessie,10.8458438,39.8591637,1785,TRUE
+720,0.07,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Haro Bakelo,Dessie,10.8465299,39.8254965,2482,TRUE
+720,0.09,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Haro Bakelo,Dessie,10.8482993,39.85231701,1809,TRUE
+720,0.03,0,Amhara,Oromiya Liyu Zone,Dewa Chefa,Haro Bakelo,Dessie,10.8486305,39.86397201,1846,TRUE
+716,0.06,0.06,Amhara,Awi,Ayehu Guagusa,Dikuna Dereb,Bahirdar,10.9615301,36.935129,2201,TRUE
+695,0.5,0.5,Amhara,Awi,Fagita Lekoma,Dimama Manguda,Bahirdar,11.126709,36.8241475,2409,TRUE
+695,0.75,0.25,Amhara,Awi,Fagita Lekoma,Dimama Manguda,Bahirdar,11.1301932,36.8246012,2343,TRUE
+695,0.5,0,Amhara,Awi,Fagita Lekoma,Dimama Manguda,Bahirdar,11.1311964,36.8212385,2365,TRUE
+695,0.5,0.25,Amhara,Awi,Fagita Lekoma,Dimama Manguda,Bahirdar,11.1315015,36.8255648,2359,TRUE
+695,0.5,0.25,Amhara,Awi,Fagita Lekoma,Dimama Manguda,Bahirdar,11.1320233,36.8260188,2360,TRUE
+695,0.25,0.25,Amhara,Awi,Fagita Lekoma,Dimama Manguda,Bahirdar,11.1330174,36.8253172,2368,TRUE
+695,0.5,0.25,Amhara,Awi,Fagita Lekoma,Dimama Manguda,Bahirdar,11.1330486,36.8258733,2368,TRUE
+695,0.75,0.25,Amhara,Awi,Fagita Lekoma,Dimama Manguda,Bahirdar,11.1331346,36.8261512,2364,TRUE
+474,0,0,Amhara,Debub Wello,Tehuledere,Kete,Dessie,11.2850428,39.7051338,2000,TRUE
+474,0,0,Amhara,Debub Wello,Tehuledere,Kete,Dessie,11.2850428,39.7051338,2000,TRUE
+474,0,0,Amhara,Debub Wello,Tehuledere,Kete,Dessie,11.2853887,39.7053308,2023,TRUE
+474,0,0,Amhara,Debub Wello,Tehuledere,Kete,Dessie,11.2856553,39.7057879,2005,TRUE
+474,0,0,Amhara,Debub Wello,Tehuledere,Kete,Dessie,11.2865351,39.7055492,1862,TRUE
+474,0,0,Amhara,Debub Wello,Tehuledere,Kete,Dessie,11.2865668,39.7058275,2020,TRUE
+474,0,0,Amhara,Debub Wello,Tehuledere,Kete,Dessie,11.2874447,39.705684,2055,TRUE
+469,0.12,0,Amhara,Debub Wello,Kutaber,Kundi,Dessie,11.3539646,39.449204,2083,TRUE
+469,0.12,0,Amhara,Debub Wello,Kutaber,Kundi,Dessie,11.3551539,39.4526916,2143,TRUE
+469,0.25,0,Amhara,Debub Wello,Kutaber,Kundi,Dessie,11.3553829,39.4495188,2144,TRUE
+469,0.25,0,Amhara,Debub Wello,Kutaber,Kundi,Dessie,11.3558924,39.4506207,2182,TRUE
+469,0.25,0,Amhara,Debub Wello,Kutaber,Kundi,Dessie,11.3559035,39.4503266,2156,TRUE
+469,0.12,0,Amhara,Debub Wello,Kutaber,Kundi,Dessie,11.3574518,39.4561528,2081,TRUE
+641,0.5,0.5,Amhara,Mirab Gojjam,Debub Achefer,Lalibela,Bahirdar,11.5146876,36.9527886,1968,TRUE
+641,0.5,0.5,Amhara,Mirab Gojjam,Debub Achefer,Lalibela,Bahirdar,11.5147416,36.9528137,1960,TRUE
+641,0.75,0.75,Amhara,Mirab Gojjam,Debub Achefer,Lalibela,Bahirdar,11.5161815,36.9307283,1962,TRUE
+641,0.75,0.75,Amhara,Mirab Gojjam,Debub Achefer,Lalibela,Bahirdar,11.516271,36.9312949,1964,TRUE
+641,0.5,0.5,Amhara,Mirab Gojjam,Debub Achefer,Lalibela,Bahirdar,11.5233015,36.9198065,1974,TRUE
+683,0.25,0.25,Amhara,Awi,Dangila,Gissa Balegzabehaier,Bahirdar,11.5657213,37.3856326,1809,TRUE
+683,0.25,0.25,Amhara,Awi,Dangila,Gissa Balegzabehaier,Bahirdar,11.5663219,37.3861673,1825,TRUE
+683,1.25,1.25,Amhara,Awi,Dangila,Gissa Balegzabehaier,Bahirdar,11.5663742,37.3861289,1799,TRUE
+680,1,1,Amhara,Dangila,Dengeshita,006_09,Bahirdar,11.299417,36.85463,2103,TRUE
+680,1,1,Amhara,Dangila,Dengeshita,006_09,Bahirdar,11.302588,36.84891,2086,TRUE
+680,0.75,0.75,Amhara,Dangila,Dengeshita,006_09,Bahirdar,11.308325,36.850329,2074,TRUE
+680,0.5,0.5,Amhara,Dangila,Dengeshita,006_09,Bahirdar,11.313584,36.8435921,2069,TRUE
+682,0.83,0.83,Amhara,Dangila,Mayiel Bach,019_03,Bahirdar,11.5948174,37.3992614,1832,TRUE
+682,0.74,0.74,Amhara,Dangila,Mayiel Bach,019_03,Bahirdar,11.6228938,37.4544284,1903,TRUE
+682,0.3,0.21,Amhara,Dangila,Mayiel Bach,019_03,Bahirdar,11.6229137,37.4544001,1908,TRUE
+682,0.95,0.95,Amhara,Dangila,Mayiel Bach,019_03,Bahirdar,11.6229461,37.4544934,1908,TRUE
+682,0.28,0,Amhara,Dangila,Mayiel Bach,019_03,Bahirdar,11.6229493,37.4545702,1832,TRUE
+682,0.18,0.18,Amhara,Dangila,Mayiel Bach,019_03,Bahirdar,11.6229758,37.4545236,1909,TRUE
+682,0.44,0.44,Amhara,Dangila,Mayiel Bach,019_03,Bahirdar,11.6229812,37.4545481,1846,TRUE
+682,0.5,0.5,Amhara,Dangila,Mayiel Bach,019_03,Bahirdar,11.6230031,37.4544849,1957,TRUE
+754,0.75,0.75,Amhara,Bahirdar Ketema /Geter/ and Ta,Adis Alem,008_15,Bahirdar,11.5773346,37.3859642,2103,TRUE
+754,0.6,0.6,Amhara,Bahirdar Ketema /Geter/ and Ta,Adis Alem,008_15,Bahirdar,11.5778297,37.3856252,1734,TRUE
+410,0.5,0.5,Amhara,Dera,Micho,035_14,Gonder,11.3782603,37.7381983,1943,TRUE
+410,0.5,0.5,Amhara,Dera,Micho,035_14,Gonder,11.3792621,37.7404932,1967,TRUE
+410,0.5,0.5,Amhara,Dera,Micho,035_14,Gonder,11.3804864,37.7454823,1939,TRUE
+410,0.5,0.5,Amhara,Dera,Micho,035_14,Gonder,11.3822097,37.7476222,1849,TRUE
+410,0.5,0.5,Amhara,Dera,Micho,035_14,Gonder,11.3822346,37.7476036,1862,TRUE
+410,1,1,Amhara,Dera,Micho,035_14,Gonder,11.3840784,37.747997,1860,TRUE
+410,0.25,0.25,Amhara,Dera,Micho,035_14,Gonder,11.384113,37.7477816,1902,TRUE
+410,0.5,0.5,Amhara,Dera,Micho,035_14,Gonder,11.3846291,37.7473173,1878,TRUE
+383,0.25,0.25,Amhara,Fogera,Zeneg,008_07,Gonder,11.9611458,37.91590468,2011,TRUE
+383,0.25,0,Amhara,Fogera,Zeneg,008_07,Gonder,11.971307,37.9133283,1965,TRUE
+383,0.67,0,Amhara,Fogera,Zeneg,008_07,Gonder,11.9718695,37.9145399,2001,TRUE
+383,0.5,0,Amhara,Fogera,Zeneg,008_07,Gonder,11.971892,37.9146422,1998,TRUE
+383,0.37,0,Amhara,Fogera,Zeneg,008_07,Gonder,11.97218835,37.9145346,1988,TRUE
+800,0.25,0.25,Amhara,Mirabdembiya,Abirjiha Hayila,018_07,Gonder,12.2419602,37.2254833,1972,TRUE
+800,0.25,0.25,Amhara,Mirabdembiya,Abirjiha Hayila,018_07,Gonder,12.5403114,37.4388136,2018,TRUE
+800,0.5,0.5,Amhara,Mirabdembiya,Abirjiha Hayila,018_07,Gonder,12.5403598,37.4389975,2023,TRUE
+800,0.25,0.25,Amhara,Mirabdembiya,Abirjiha Hayila,018_07,Gonder,12.5490535,37.4275205,2096,TRUE
+800,0.5,0.5,Amhara,Mirabdembiya,Abirjiha Hayila,018_07,Gonder,12.550435,37.4253753,2097,TRUE
+800,0.5,0.5,Amhara,Mirabdembiya,Abirjiha Hayila,018_07,Gonder,12.5515198,37.4244085,2048,TRUE
+613,1,1,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.462121,37.131824,2468,TRUE
+613,0.5,0.5,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.462418,37.132119,2654,TRUE
+613,0.25,0.25,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.462911,37.13031,2583,TRUE
+613,0.4,0.4,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.463346,37.135161,2647,TRUE
+613,0.25,0.25,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.463413,37.13461,2580,TRUE
+613,0.25,0.25,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.463438,37.130814,2567,TRUE
+613,0.25,0.25,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.4635248,37.1388669,2486,TRUE
+613,0.5,0.5,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.463818,37.134134,2587,TRUE
+613,0.75,0.75,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.464013,37.130203,2589,TRUE
+613,2,2,Amhara,Semen Mecha,Kolela,006_04,Bahirdar,11.468413,37.130146,2965,TRUE
+810,0.02,0.02,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3237088,36.5135783,702,TRUE
+810,0.04,0.04,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3317188,36.5182709,686,TRUE
+810,0.02,0,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3317758,36.5158327,691,TRUE
+810,0.02,0,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3318568,36.51767867,717,TRUE
+810,0.03,0.03,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3319909,36.5175129,718,TRUE
+810,0.03,0.03,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3322136,36.5168088,682,TRUE
+810,0.04,0,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3327874,36.51334515,688,TRUE
+810,0.02,0,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3338435,36.51917739,701,TRUE
+810,0,0,Amhara,Merab Armachiho,Zemene Merek 02,006_04,Gonder,13.3390193,36.5128147,679,TRUE
+584,0.62,0.62,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1552893,37.7452915,2333,TRUE
+584,0.62,0.62,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1553084,37.7453372,2319,TRUE
+584,0.12,0.12,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1553228,37.7453218,2318,TRUE
+584,0.12,0.12,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1553482,37.7454313,2325,TRUE
+584,0.25,0.25,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1553695,37.7453591,2337,TRUE
+584,0.25,0.25,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1554228,37.7452978,2327,TRUE
+584,0.62,0.12,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1554376,37.7452045,2334,TRUE
+584,0.5,0.5,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1554462,37.7452031,2331,TRUE
+584,0.12,0,Amhara,Baso_liben,Zemboli_yechara,020_12,Bahirdar,10.1554464,37.745282,2326,TRUE
+556,0.5,0.5,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0498858,37.7886596,1979,TRUE
+556,0.5,0.5,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0530969,37.7932154,2009,TRUE
+556,0.33,0.33,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0560098,37.7969988,1974,TRUE
+556,0.33,0.33,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0561985,37.7975236,1986,TRUE
+556,0.5,0.5,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0568421,37.7972012,1913,TRUE
+555,0.33,0.33,Amhara,Hulet Eju Enese,Atsede_birhan,011_04,Bahirdar,11.0573827,37.9763016,2505,TRUE
+555,0.01,0.01,Amhara,Hulet Eju Enese,Atsede_birhan,011_04,Bahirdar,11.0581185,37.9774792,2475,TRUE
+555,0.5,0.5,Amhara,Hulet Eju Enese,Atsede_birhan,011_04,Bahirdar,11.0600015,37.9805167,2449,TRUE
+555,0.12,0.12,Amhara,Hulet Eju Enese,Atsede_birhan,011_04,Bahirdar,11.0606715,37.9815075,2444,TRUE
+555,0.25,0.25,Amhara,Hulet Eju Enese,Atsede_birhan,011_04,Bahirdar,11.0614184,37.9822186,2459,TRUE
+555,0.25,0.25,Amhara,Hulet Eju Enese,Atsede_birhan,011_04,Bahirdar,11.0614882,37.9823041,2432,TRUE
+555,0.01,0.01,Amhara,Hulet Eju Enese,Atsede_birhan,011_04,Bahirdar,11.0615059,37.9820164,2470,TRUE
+555,0.1,0.1,Amhara,Hulet Eju Enese,Atsede_birhan,011_04,Bahirdar,11.0617627,37.9823468,2438,TRUE
+556,0.33,0.33,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0730823,37.7777699,1879,TRUE
+556,0.5,0.5,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0732867,37.7777444,1790,TRUE
+556,0.5,0.5,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0822527,37.7792571,1910,TRUE
+556,0.25,0.25,Amhara,Hulet Eju Enese,Tiru Selam,22_10,Bahirdar,11.0825336,37.7781344,1918,TRUE
+443,0,0,Amhara,Gubalafto,Jarsa,021_09,Dessie,11.8063724,39.5316001,1897,TRUE
+443,0,0,Amhara,Gubalafto,Jarsa,021_09,Dessie,11.8070477,39.5259433,1974,TRUE
+443,0,0,Amhara,Gubalafto,Jarsa,021_09,Dessie,11.8081303,39.5258779,1959,TRUE
+443,0,0,Amhara,Gubalafto,Jarsa,021_09,Dessie,11.8082146,39.5181251,1967,TRUE
+443,0,0,Amhara,Gubalafto,Jarsa,021_09,Dessie,11.8087023,39.5219656,1996,TRUE
+443,0,0,Amhara,Gubalafto,Jarsa,021_09,Dessie,11.8089323,39.5235703,1991,TRUE
+443,0,0,Amhara,Gubalafto,Jarsa,021_09,Dessie,11.8089323,39.5235703,1991,TRUE
+654,0.02,0,Amhara,Dehana,Guramba,020_06,Dessie,12.3414296,38.6796508,2247,TRUE
+654,0.01,0,Amhara,Dehana,Guramba,020_06,Dessie,12.3415725,38.6798417,2257,TRUE
+1174,0.3,0.2,Oromia,Boke,Kurkura,021_07,Chiro,8.5567423,40.6825142,1672,TRUE
+1174,0.6,0.2,Oromia,Boke,Kurkura,021_07,Chiro,8.6281137,40.6778926,1757,TRUE
+1174,0.7,0.2,Oromia,Boke,Kurkura,021_07,Chiro,8.6281403,40.6777272,1755,TRUE
+1174,0.7,0.2,Oromia,Boke,Kurkura,021_07,Chiro,8.6281768,40.6777765,1761,TRUE
+1174,0.2,0.1,Oromia,Boke,Kurkura,021_07,Chiro,8.6281899,40.6778685,1760,TRUE
+1174,0.6,0.2,Oromia,Boke,Kurkura,021_07,Chiro,8.6287488,40.6784449,1749,TRUE
+1174,0.5,0.2,Oromia,Boke,Kurkura,021_07,Chiro,8.6287962,40.6785297,1743,TRUE
+1174,0.2,0.1,Oromia,Boke,Kurkura,021_07,Chiro,8.6291802,40.6786017,1737,TRUE
+1156,0.25,0,Oromia,Tulo,Hakamulis,014_15,Chiro,9.173084,41.1468906,2209,TRUE
+1156,0,0,Oromia,Tulo,Hakamulis,014_15,Chiro,9.173111,41.1468562,2218,TRUE
+1156,0.25,0,Oromia,Tulo,Hakamulis,014_15,Chiro,9.1731999,41.1436563,2307,TRUE
+1156,0.12,0,Oromia,Tulo,Hakamulis,014_15,Chiro,9.173313,41.1469452,2219,TRUE
+1156,,,Oromia,Tulo,Hakamulis,014_15,Chiro,9.1733246,41.1469247,2215,TRUE
+1156,0.12,0,Oromia,Tulo,Hakamulis,014_15,Chiro,9.1734187,41.1451492,2256,TRUE
+1156,0.25,0,Oromia,Tulo,Hakamulis,014_15,Chiro,9.1743091,41.1461536,2261,TRUE
+1156,,,Oromia,Tulo,Hakamulis,014_15,Chiro,9.1770516,41.1473055,2158,TRUE
+1156,,,Oromia,Tulo,Hakamulis,014_15,Chiro,9.1780238,41.1522878,2112,TRUE
+1013,1,1,Oromia,Dendi,Awash Bole,013_02,Ambo,8.9989402,38.0660875,2339,TRUE
+1013,5,9,Oromia,Dendi,Awash Bole,013_02,Ambo,9.006594,38.0597364,2378,TRUE
+1013,5,2,Oromia,Dendi,Awash Bole,013_02,Ambo,9.0067951,38.0597709,2381,TRUE
+1013,4,2,Oromia,Dendi,Awash Bole,013_02,Ambo,9.0068146,38.0597608,2373,TRUE
+1013,0,0,Oromia,Dendi,Awash Bole,013_02,Ambo,9.0068683,38.0597612,2379,TRUE
+1323,0,0.02,Oromia,Goro,Adami Wadesa,014_04,Ambo,8.3793531,37.8754561,1820,TRUE
+1323,0.12,0,Oromia,Goro,Adami Wadesa,014_04,Ambo,8.3801767,37.8769937,1826,TRUE
+1323,0.02,0.02,Oromia,Goro,Adami Wadesa,014_04,Ambo,8.3831434,37.8791701,1795,TRUE
+1323,0.03,0.03,Oromia,Goro,Adami Wadesa,014_04,Ambo,8.3832871,37.8793617,1840,TRUE
+1323,0.05,0.01,Oromia,Goro,Adami Wadesa,014_04,Ambo,8.3859191,37.8827145,1869,TRUE
+1323,0.12,0.12,Oromia,Goro,Adami Wadesa,014_04,Ambo,8.3887293,37.8850794,1795,TRUE
+1323,0.25,0.25,Oromia,Goro,Adami Wadesa,014_04,Ambo,8.3901272,37.8857105,1798,TRUE
+1323,0.12,0.12,Oromia,Goro,Adami Wadesa,014_04,Ambo,8.3909625,37.8883824,1863,TRUE
+1304,1.5,1,Oromia,Ameya,Bareda Chilalo Hudada_10,023_02,Ambo,8.5946928,37.7643241,2008,TRUE
+1304,1.5,1,Oromia,Ameya,Bareda Chilalo Hudada_10,023_02,Ambo,8.5947223,37.7641666,1993,TRUE
+1304,25,0,Oromia,Ameya,Bareda Chilalo Hudada_10,023_02,Ambo,8.5947233,37.7642756,2004,TRUE
+1304,1,0,Oromia,Ameya,Bareda Chilalo Hudada_10,023_02,Ambo,8.5947858,37.7642278,2006,TRUE
+1304,1,0,Oromia,Ameya,Bareda Chilalo Hudada_10,023_02,Ambo,8.5948153,37.7641555,2010,TRUE
+1304,1,0,Oromia,Ameya,Bareda Chilalo Hudada_10,023_02,Ambo,8.5948382,37.7642505,2013,TRUE
+1304,1,0,Oromia,Ameya,Bareda Chilalo Hudada_10,023_02,Ambo,8.5949373,37.7644762,2022,TRUE
+1304,2,1.5,Oromia,Ameya,Bareda Chilalo Hudada_10,023_02,Ambo,8.5967729,37.7653288,2010,TRUE
+1309,0.5,0.5,Oromia,Wenchi,Lemanmata Hora,016_01,Ambo,8.6029447,37.8199942,2038,TRUE
+1309,0.25,0.25,Oromia,Wenchi,Lemanmata Hora,016_01,Ambo,8.6048206,37.830057,2039,TRUE
+1309,0.4,0.2,Oromia,Wenchi,Lemanmata Hora,016_01,Ambo,8.6141332,37.8362659,2151,TRUE
+1311,0.1,0,Oromia,Woliso,Doyo Kora,004_07,Ambo,8.6421439,38.1127817,2367,TRUE
+1311,0.05,0,Oromia,Woliso,Doyo Kora,004_07,Ambo,8.6461568,38.1134527,2256,TRUE
+1311,0.02,0,Oromia,Woliso,Doyo Kora,004_07,Ambo,8.6469929,38.1147688,2334,TRUE
+1311,0.02,0.02,Oromia,Woliso,Doyo Kora,004_07,Ambo,8.6474764,38.1166554,2341,TRUE
+1311,0.2,0,Oromia,Woliso,Doyo Kora,004_07,Ambo,8.6487598,38.116314,2334,TRUE
+1311,0.02,0.02,Oromia,Woliso,Doyo Kora,004_07,Ambo,8.6518504,38.1090828,2375,TRUE
+1318,0.07,0,Oromia,Dawo,Maket Suntare,010_05,Ambo,8.82723,38.169976,2124,TRUE
+1306,2,1,Oromia,Ameya,Tiro Ilala,035_04,Ambo,8.9775361,37.8726176,1672,TRUE
+1013,0.5,0.5,Oromia,Dendi,Awash Bole,013_02,Ambo,9.0073735,38.0620814,2362,TRUE
+1098,1,1,Oromia,Adamitulu,Surokudusa,026_02,Adama,7.8598906,38.7069999,1659,TRUE
+1013,2,4,Oromia,Dendi,Awash Bole,013_02,Ambo,2,3,5,TRUE
+1442,0.74,0,Oromia,Siraro,Shasha Goike,024_16,Adama,7.0056976,38.144968,1570,TRUE
+1442,1.22,1.22,Oromia,Siraro,Shasha Goike,024_16,Adama,7.0057551,38.146182,1577,TRUE
+1442,2.4,2.4,Oromia,Siraro,Shasha Goike,024_16,Adama,7.0060967,38.145316,1577,TRUE
+1442,1.02,0,Oromia,Siraro,Shasha Goike,024_16,Adama,7.0106748,38.1404807,1590,TRUE
+1442,0.26,0,Oromia,Siraro,Shasha Goike,024_16,Adama,7.0134938,38.1550855,1582,TRUE
+1442,2.48,2.48,Oromia,Siraro,Shasha Goike,024_16,Adama,7.0169122,38.1552015,1637,TRUE
+1442,0.45,0,Oromia,Siraro,Shasha Goike,024_16,Adama,7.0169122,38.1552015,1637,TRUE
+1442,0.32,0.32,Oromia,Siraro,Shasha Goike,024_16,Adama,7.01702,38.1550347,1579,TRUE
+991,0.25,0.25,Oromia,Mencho,Ama Wedesa,008_01,Jimma,7.4755432,37.0561934,1813,TRUE
+991,0.5,0.5,Oromia,Mencho,Ama Wedesa,008_01,Jimma,7.4757468,37.0561168,1723,TRUE
+976,1,1,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.611167,37.1131915,1831,TRUE
+976,0.75,0.75,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.6747053,37.119283,1817,TRUE
+976,0.25,0.25,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.6761874,37.1150108,1732,TRUE
+976,0.75,0.75,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.6780729,37.1190983,1834,TRUE
+976,1.25,1,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.6796842,37.1142722,1831,TRUE
+976,1.5,1.5,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.6801056,37.1171675,1829,TRUE
+976,0.75,0.75,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.6806233,37.1097279,1766,TRUE
+976,1,1,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.6812068,37.1112974,1758,TRUE
+976,2,2,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.6825004,37.1164995,1831,TRUE
+1099,1,1,Oromia,Misrak Shewa,Adamitulu,Urgo Machafara,Adama,7.7881871,38.5022779,1720,TRUE
+959,0.5,0.5,Oromia,Jimma,Kersa,Dogoso,Jimma,7.8054896,37.2076118,1746,TRUE
+959,2,2,Oromia,Jimma,Kersa,Dogoso,Jimma,7.8064171,37.2104741,1760,TRUE
+959,0.25,0.25,Oromia,Jimma,Kersa,Dogoso,Jimma,7.80885223,37.2159855,1782,TRUE
+959,0.25,0.25,Oromia,Jimma,Kersa,Dogoso,Jimma,7.8088991,37.2149268,1729,TRUE
+959,0.5,0.4,Oromia,Jimma,Kersa,Dogoso,Jimma,7.8089653,37.2149762,1728,TRUE
+976,1,1,Oromia,Jimma,Omo Nada,Chole  Beyam,Jimma,7.821282,37.1143654,1710,TRUE
+1475,0.75,0.75,Oromia,Mirab Arsi,Shashemane,Kore Rogicha,Adama,8.5517498,39.292891,0,TRUE
+1475,0.75,0.75,Oromia,Mirab Arsi,Shashemane,Kore Rogicha,Adama,8.5520663,39.2925666,0,TRUE
+1475,0.5,0.5,Oromia,Mirab Arsi,Shashemane,Kore Rogicha,Adama,8.5520663,39.2925666,0,TRUE
+1475,2,2,Oromia,Mirab Arsi,Shashemane,Kore Rogicha,Adama,8.5520663,39.2925666,0,TRUE
+1475,2,2,Oromia,Mirab Arsi,Shashemane,Kore Rogicha,Adama,8.5520663,39.2925666,0,TRUE
+1560,0.35,0.25,Oromia,Buno Bedele,Dega,Dima Togo,Jimma,8.6111454,36.0997019,2305,TRUE
+1331,0.04,0,Oromia,Debub Mirab Shewa,Bacho,Kata Insilale,Ambo,8.637176,38.2290698,200,TRUE
+1475,1,1,Oromia,Mirab Arsi,Shashemane,Kore Rogicha,Adama,8.7386875,38.9718611,1910,TRUE
+1224,0,0,Oromia,Misrak Harargehe,Midaga Tola,Mudi Bali,Harar,8.8953688,42.1949785,1573,TRUE
+1224,0,0,Oromia,Misrak Harargehe,Midaga Tola,Mudi Bali,Harar,8.9107885,42.194373,1573,TRUE
+885,0.06,0.06,Oromia,Misrak Wollega,Bonayaboshe,Soduberama,Nekemte,8.9758055,36.9565376,1748,TRUE
+885,0.8,0.5,Oromia,Misrak Wollega,Bonayaboshe,Soduberama,Nekemte,8.9758283,36.9566002,1708,TRUE
+1196,0.32,0.32,Oromia,Misrak Harargehe,Gursum,Goro Siyo,Harar,9.3830016,42.2926571,1982,TRUE
+1212,0.25,0,Oromia,Misrak Harargehe,Gorogutu,Cafe Aneni,Chiro,9.3903733,41.3457151,2057,TRUE
+1212,0.1,0,Oromia,Misrak Harargehe,Gorogutu,Cafe Aneni,Chiro,9.3915894,41.3396793,2037,TRUE
+1212,0.06,0,Oromia,Misrak Harargehe,Gorogutu,Cafe Aneni,Chiro,9.3930207,41.3398571,2007,TRUE
+1212,0.3,0,Oromia,Misrak Harargehe,Gorogutu,Cafe Aneni,Chiro,9.3932177,41.3394902,1977,TRUE
+1212,0.1,0,Oromia,Misrak Harargehe,Gorogutu,Cafe Aneni,Chiro,9.3940755,41.3385711,1953,TRUE
+723,0.5,0.5,Oromia,Dewa Chefa,Gerbi,015_04,Dessie,10.7483708,39.8307331,1469,TRUE
+2029,0.25,0.25,SNNP,Abashige,Hudad4,001_02,Hossana,8.3850571,37.5256662,1562,TRUE
+2029,1.5,1.5,SNNP,Abashige,Hudad4,001_02,Hossana,8.3914095,37.5232287,1551,TRUE
+2071,2,2,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5952573,38.0611417,1919,TRUE
+2071,1,1,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5953061,38.0611722,1926,TRUE
+2071,0.5,0.25,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5953142,38.0613119,1916,TRUE
+2071,1,1,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5953464,38.0612535,1912,TRUE
+2071,1,0.5,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5953775,38.0612811,1901,TRUE
+2071,1,0,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5954018,38.0614052,1911,TRUE
+2071,1,0,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5954418,38.0612022,1911,TRUE
+2071,2,1,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5954687,38.0614106,1913,TRUE
+2071,1,1,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5955331,38.0612656,1916,TRUE
+2071,0.25,0,SNNP,Shashego,Biramorakamo,027_01,Hossana,7.5961859,38.0620176,1914,TRUE
+2064,0.06,0,SNNP,Gibe,Hamolauta,016_03,Hossana,7.6819323,37.7595115,2251,TRUE
+2064,0.01,0,SNNP,Gibe,Hamolauta,016_03,Hossana,7.6829393,37.7620086,2277,TRUE
+2064,0.05,0,SNNP,Gibe,Hamolauta,016_03,Hossana,7.6843064,37.7537675,2248,TRUE
+2064,0.03,0,SNNP,Gibe,Hamolauta,016_03,Hossana,7.6856853,37.7543013,2270,TRUE
+2064,0.04,0,SNNP,Gibe,Hamolauta,016_03,Hossana,7.6857085,37.7629273,2355,TRUE
+2064,0.01,0,SNNP,Gibe,Hamolauta,016_03,Hossana,7.6859177,37.784365,2203,TRUE
+2064,0.01,0,SNNP,Gibe,Hamolauta,016_03,Hossana,7.6862975,37.7662127,2232,TRUE
+2064,0.06,0,SNNP,Gibe,Hamolauta,016_03,Hossana,7.6865024,37.7609202,2131,TRUE
+2063,0.02,0,SNNP,Gibe,Olawa,008_03,Hossana,7.7297349,37.7347423,2084,TRUE
+2063,0.01,0,SNNP,Gibe,Olawa,008_03,Hossana,7.7298403,37.7390607,2078,TRUE
+2063,0.04,0,SNNP,Gibe,Olawa,008_03,Hossana,7.7308305,37.74086322,2128,TRUE
+2063,0.03,0,SNNP,Gibe,Olawa,008_03,Hossana,7.7310272,37.7328334,2125,TRUE
+2063,0.04,0,SNNP,Gibe,Olawa,008_03,Hossana,7.7324225,37.740238,2131,TRUE
+2063,0.06,0,SNNP,Gibe,Olawa,008_03,Hossana,7.732833,37.7349484,2085,TRUE
+2063,0.29,0,SNNP,Gibe,Olawa,008_03,Hossana,7.7331323,37.7327174,2068,TRUE
+2063,0.07,0,SNNP,Gibe,Olawa,008_03,Hossana,7.7332355,37.7369534,2085,TRUE
+2063,0.1,0,SNNP,Gibe,Olawa,008_03,Hossana,7.7340665,37.737233,2093,TRUE
+2063,0.14,0,SNNP,Gibe,Olawa,008_03,Hossana,7.73473279,37.7346708,2079,TRUE
+2062,0.35,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8138585,37.6604363,1593,TRUE
+2062,0.3,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8144149,37.6583462,1584,TRUE
+2062,0.45,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8145014,37.6490052,1545,TRUE
+2062,0.52,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8150386,37.6546698,1558,TRUE
+2062,0.52,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8152549,37.6575228,1575,TRUE
+2062,0.28,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8157184,37.6491335,1556,TRUE
+2062,0.33,0,SNNP,Gibe,Tetema,002_01,Hossana,7.815737,37.6564798,1576,TRUE
+2062,0.32,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8182662,37.6531043,1540,TRUE
+2062,0.51,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8212932,37.6450228,1476,TRUE
+2062,0.7,0,SNNP,Gibe,Tetema,002_01,Hossana,7.8261168,37.6335213,1454,TRUE
+2273,0,0,SNNP,Burji Liyu,Burji Liyu Wereda,Yebeno,Hawasa,5.4847923,37.86142111,1955,TRUE
+2273,0.2,0,SNNP,Burji Liyu,Burji Liyu Wereda,Yebeno,Hawasa,5.52402,37.8125893,1822,TRUE
+2273,0,0,SNNP,Burji Liyu,Burji Liyu Wereda,Yebeno,Hawasa,5.52480279,37.8122381,1901,TRUE
+2273,0.1,0,SNNP,Burji Liyu,Burji Liyu Wereda,Yebeno,Hawasa,5.5543983,37.8044993,1943,TRUE
+2237,0.5,0,SNNP,Gamo,Arbaminch Zuriya,Zeyse Eligo,Arbaminch,6.0403943,37.5565467,1173,TRUE
+2323,0.75,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.2722818,36.5626649,1017,TRUE
+2323,1,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.2750979,36.5438598,850,TRUE
+2323,0.8,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.275098,36.543861,849,TRUE
+2323,0.75,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.275099,36.543871,869,TRUE
+2323,1,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.2753314,36.5618496,979,TRUE
+2323,1,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.2753314,36.5618496,979,TRUE
+2323,0.25,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.2753372,36.5619793,1001,TRUE
+2323,0.9,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.2753808,36.561799,1000,TRUE
+2323,0,0,SNNP,Basketo Special,Basketo,Angla Kutir_2,Arbaminch,6.2754619,36.5619325,1010,TRUE
+2318,0.15,0,SNNP,Basketo Special,Basketo,Doko Ayma,Arbaminch,6.3022231,36.6213699,0,TRUE
+2293,0.25,0.25,SNNP,Halaba,Atote Ule,Kuncheyeye,Hossana,7.3102187,38.2654038,1884,TRUE
+2293,0.1,0.1,SNNP,Halaba,Atote Ule,Kuncheyeye,Hossana,7.3127022,38.2629143,1862,TRUE
+2293,0.1,0.1,SNNP,Halaba,Atote Ule,Kuncheyeye,Hossana,7.3167923,38.267546,1858,TRUE
+2293,0.25,0.25,SNNP,Halaba,Atote Ule,Kuncheyeye,Hossana,7.3177049,38.2672048,1860,TRUE
+2293,0.1,0.1,SNNP,Halaba,Atote Ule,Kuncheyeye,Hossana,7.3181442,38.2676797,1867,TRUE
+2293,0.5,0.5,SNNP,Halaba,Atote Ule,Kuncheyeye,Hossana,7.3214077,38.2697529,1865,TRUE
+2293,0.5,0.5,SNNP,Halaba,Atote Ule,Kuncheyeye,Hossana,7.3214805,38.269896,1857,TRUE
+2293,5296,5296,SNNP,Halaba,Atote Ule,Kuncheyeye,Hossana,7.349267,38.0960312,1775,TRUE
+2298,0.1,0.1,SNNP,Wera,Gerema,005_01,Hossana,7.367717,38.02159058,1972,TRUE
+2298,0.25,0.25,SNNP,Wera,Gerema,005_01,Hossana,7.36775902,38.02149475,1992,TRUE
+2298,0.25,0.1,SNNP,Wera,Gerema,005_01,Hossana,7.36782985,38.02135612,1974,TRUE
+2298,0.25,0.25,SNNP,Wera,Gerema,005_01,Hossana,7.36785972,38.02135167,1980,TRUE
+2298,0.5,0.5,SNNP,Wera,Gerema,005_01,Hossana,7.36786172,38.02133682,1982,TRUE
+2298,0.25,0.25,SNNP,Wera,Gerema,005_01,Hossana,7.3692623,38.02598687,1945,TRUE
+2287,0.25,0.25,SNNP,Halaba,Wera Dijo,Kobochobare,Hossana,7.3988573,38.2624194,1819,TRUE
+2287,0.4,0.4,SNNP,Halaba,Wera Dijo,Kobochobare,Hossana,7.3990075,38.2627996,1757,TRUE
+2287,0.25,0.25,SNNP,Halaba,Wera Dijo,Kobochobare,Hossana,7.3993244,38.2632125,1778,TRUE
+2287,0.27,0.27,SNNP,Halaba,Wera Dijo,Kobochobare,Hossana,7.3994097,38.2633163,1795,TRUE
+2287,0.65,0.65,SNNP,Halaba,Wera Dijo,Kobochobare,Hossana,7.399611,38.2638069,1855,TRUE
+2286,0.15,0.15,SNNP,Halaba,Wera Dijo,Udanacholoksa,Hossana,7.3999754,38.2641832,1839,TRUE
+2287,0.8,0.8,SNNP,Halaba,Wera Dijo,Kobochobare,Hossana,7.4000515,38.2639898,1808,TRUE
+2287,0.25,0.25,SNNP,Halaba,Wera Dijo,Kobochobare,Hossana,7.4001687,38.2640114,1790,TRUE
+2286,0.26,0.26,SNNP,Halaba,Wera Dijo,Udanacholoksa,Hossana,7.4003168,38.2640841,1826,TRUE
+2287,0.4,0.4,SNNP,Halaba,Wera Dijo,Kobochobare,Hossana,7.4111216,38.2501001,1878,TRUE
+2289,0.75,0.7,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122132,38.187903,2056,TRUE
+2289,0.9,0.9,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122142,38.1879083,2056,TRUE
+2289,0.26,0.26,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122143,38.1879082,2056,TRUE
+2289,0.75,0.75,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122143,38.1879052,2056,TRUE
+2289,0.3,0.3,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122152,38.1879053,2056,TRUE
+2289,0.28,0.28,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122153,38.1879093,2056,TRUE
+2289,1,0.28,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122153,38.187909,2056,TRUE
+2289,0.36,0.24,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122154,30.1879082,2046,TRUE
+2289,0.58,0.33,SNNP,Wera Dijo,Lyignawtuka,022_04,Hossana,7.4122155,38.1879073,2056,TRUE
+2070,0.25,0.25,SNNP,Shashego,Shamisamise,016_04,Hossana,7.4349631,38.0610248,1918,TRUE
+2070,0.5,0.5,SNNP,Shashego,Shamisamise,016_04,Hossana,7.4349713,38.0611862,1924,TRUE
+2070,1.5,1.5,SNNP,Shashego,Shamisamise,016_04,Hossana,7.4350363,38.0611523,1917,TRUE
+2070,0.3,0.2,SNNP,Shashego,Shamisamise,016_04,Hossana,7.4350409,38.0611033,1916,TRUE
+2070,0.75,0.5,SNNP,Shashego,Shamisamise,016_04,Hossana,7.4350682,38.0611599,1955,TRUE
+2070,2,2,SNNP,Shashego,Shamisamise,016_04,Hossana,7.4350906,38.061154,1928,TRUE
+2070,2,2,SNNP,Shashego,Shamisamise,016_04,Hossana,7.4351233,38.061153,1926,TRUE
+2070,1.26,1.25,SNNP,Shashego,Shamisamise,016_04,Hossana,7.4351997,38.0611651,1933,TRUE
+2286,0.06,0.06,SNNP,Halaba,Wera Dijo,Udanacholoksa,Hossana,7.4566318,38.3189783,1802,TRUE
+2286,0.1,0.1,SNNP,Halaba,Wera Dijo,Udanacholoksa,Hossana,7.4592416,38.3135142,1892,TRUE
+2286,0.13,0.13,SNNP,Halaba,Wera Dijo,Udanacholoksa,Hossana,7.4592551,38.3138664,1826,TRUE
+2286,0.11,0.11,SNNP,Halaba,Wera Dijo,Udanacholoksa,Hossana,7.4592859,38.313548,1797,TRUE
+2286,0.12,0.12,SNNP,Halaba,Wera Dijo,Udanacholoksa,Hossana,7.4593512,38.3136002,1804,TRUE
+2286,0.25,0.25,SNNP,Halaba,Wera Dijo,Udanacholoksa,Hossana,7.459547,38.3137155,1838,TRUE
+2337,0.25,0.25,SNNP,Silite,Lanfuro,Girzila Shofode,Hossana,7.7184682,38.3521449,1848,TRUE
+2337,0.25,0.25,SNNP,Silite,Lanfuro,Girzila Shofode,Hossana,7.7195827,38.3476952,1860,TRUE
+2337,0.3,0.3,SNNP,Silite,Lanfuro,Girzila Shofode,Hossana,7.7201905,38.3521662,1827,TRUE
+2337,0.25,0.25,SNNP,Silite,Lanfuro,Girzila Shofode,Hossana,7.721155,38.3479538,1823,TRUE
+2337,0.3,0.3,SNNP,Silite,Lanfuro,Girzila Shofode,Hossana,7.7212122,38.3522714,1814,TRUE
+2337,0.2,0.2,SNNP,Silite,Lanfuro,Girzila Shofode,Hossana,7.7219822,38.3486686,1837,TRUE
+2337,0.25,0.25,SNNP,Silite,Lanfuro,Girzila Shofode,Hossana,7.7219861,38.3498366,1840,TRUE
+2337,0.75,0.75,SNNP,Silite,Lanfuro,Girzila Shofode,Hossana,7.7224045,38.3479487,1835,TRUE
+2250,0.25,0.25,SNNP,Yem Liyu,Yem Liyu,Tachingaw Kesheli,Jimma,7.8251328,37.4356744,2247,TRUE
+2250,0.5,0.25,SNNP,Yem Liyu,Yem Liyu,Tachingaw Kesheli,Jimma,7.843353,37.4527195,2522,TRUE
+2042,0.44,0.44,SNNP,Gurage,Meskan,Wita,Hossana,8.1130309,38.3807947,2090,TRUE
+2042,0.62,0.62,SNNP,Gurage,Meskan,Wita,Hossana,8.1131657,38.3808381,2100,TRUE
+2042,0.25,0.25,SNNP,Gurage,Meskan,Wita,Hossana,8.1132348,38.3807947,2093,TRUE
+2042,0.25,0.25,SNNP,Gurage,Meskan,Wita,Hossana,8.113293,38.3808399,2080,TRUE
+2042,2.5,2.5,SNNP,Gurage,Meskan,Wita,Hossana,8.1134285,38.3808258,2072,TRUE
+2042,0.38,0.38,SNNP,Gurage,Meskan,Wita,Hossana,8.1137066,38.3807015,2065,TRUE
+2038,0.25,0.25,SNNP,Gurage,Sodo,Agamisando,Hossana,8.2170621,38.5141942,1930,TRUE
+2038,0.5,0.5,SNNP,Gurage,Sodo,Agamisando,Hossana,8.2189978,38.5100835,1927,TRUE
