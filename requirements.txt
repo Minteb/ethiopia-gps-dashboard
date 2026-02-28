@@ -1,0 +1,9 @@
+pandas
+geopandas
+folium
+plotly
+dash
+dash-bootstrap-components
+branca
+jinja2
+gunicorn
