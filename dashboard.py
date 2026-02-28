@@ -309,3 +309,5 @@ def update_map(selected_region, selected_zone, selected_woreda):
 # ---------------------------
 if __name__ == '__main__':
     app.run(debug=False, host='0.0.0.0', port=8050)
+# Add this line at the bottom of dashboard.py
+wsgi_app = app.server
